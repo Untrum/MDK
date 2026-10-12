@@ -1,0 +1,29 @@
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.lref
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+S:\2 курс ИСП2131\Ладанюк Андрей\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+F:\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+F:\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+F:\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+F:\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
